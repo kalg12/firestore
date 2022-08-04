@@ -1,0 +1,16 @@
+{
+  "name": "firebase",
+  "type":"module",
+  "version": "1.0.0",
+  "description": "Usando firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Luciano",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "firebase": "^9.9.1"
+  }
+}
